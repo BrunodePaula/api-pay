@@ -15,7 +15,7 @@ Gateway de pagamentos que integra com múltiplos provedores externos, oferecendo
 
 1. **Clone o repositório**:
    ```bash
-   git clone [seu-repositorio]
+   git clone https://github.com/BrunodePaula/api-pay.git
    cd api-pay
 2. **Instale as dependências:**:
    ```bash
